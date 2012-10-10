@@ -2,3 +2,4 @@ Hello World
 Waka waka
 Hello Cherie
 Oh My
+git is crazy fun
